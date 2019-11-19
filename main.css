@@ -12,10 +12,14 @@
 p {
     font-family: 'Roboto', sans-serif;
     width: 60em;
+    margin: 0 auto;
+    line-height: 2em;
 }
 
 h1 {
     font-family: 'Lato', sans-serif;
+    text-align: center;
+    padding: 1em;
 }
 
 .italisize-me {
@@ -28,6 +32,10 @@ h1 {
 
 .section-indents p:first-of-type {
     text-indent: 0;
+}
+
+.section-margins p{
+    margin-bottom: 1em;
 }
 
 section {
