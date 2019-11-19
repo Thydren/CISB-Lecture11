@@ -11,6 +11,7 @@
 
 p {
     font-family: 'Roboto', sans-serif;
+    width: 60em;
 }
 
 h1 {
@@ -21,3 +22,15 @@ h1 {
     font-style: italic;
 }
 
+.section-indents p {
+    text-indent: 3em; 
+}
+
+.section-indents p:first-of-type {
+    text-indent: 0;
+}
+
+section {
+    line-height: 140%; 
+    margin: 0%;
+}
