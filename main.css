@@ -5,3 +5,19 @@
     margin: 0;
 }
 
+.bold-me {
+    font-weight: 700;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-family: 'Lato', sans-serif;
+}
+
+.italisize-me {
+    font-style: italic;
+}
+
